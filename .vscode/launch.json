@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/labC204.UAM/Desktop/hfdh",
-      "program": "c:/Users/labC204.UAM/Desktop/hfdh/build/Debug/outDebug",
+      "cwd": "c:/hfdh",
+      "program": "c:/hfdh/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
