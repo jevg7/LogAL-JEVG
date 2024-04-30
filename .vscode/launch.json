@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/hfdh",
-      "program": "c:/hfdh/build/Debug/outDebug",
+      "cwd": "c:/Users/Jairo/Desktop/LogAL-JEVG/C++",
+      "program": "c:/Users/Jairo/Desktop/LogAL-JEVG/C++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
